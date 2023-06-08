@@ -1,1 +1,1 @@
-Agregamos un archivo "Password" que sera ignorado en el repositorio.
+Trabajdno desde la rama feature.
